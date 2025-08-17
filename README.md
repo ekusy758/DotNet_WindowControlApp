@@ -1,0 +1,2 @@
+# DotNet_WindowControlApp
+デュアルモニターで遠くに行っちゃったウィンドウを引き寄せたり操作するWinフォーム
